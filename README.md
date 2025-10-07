@@ -18,9 +18,9 @@ Aplicativo em Python/Streamlit que permite consultar pontos, vitórias, empates 
    git clone https://github.com/viniciussna-01/brasileirao_app.git
 
 2. Instale as dependências:
-```bash
+   ```bash
    pip install -r requirements.txt
 
 3.Execute o app:
-```bash
+   ```bash
    streamlit run desafio_app.py

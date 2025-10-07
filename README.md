@@ -1,15 +1,26 @@
-<<<<<<< HEAD
-# Projeto Brasileirão Streamlit ⚽
+# Brasileirão App 🏆
 
-Aplicativo em Python que mostra a pontuação dos times do Brasileirão a partir de uma tabela obtida do UOL.
+Aplicativo em Python/Streamlit que permite consultar pontos, vitórias, empates e derrotas dos times da Série A do Campeonato Brasileiro.
 
-## 🔧 Tecnologias
+## Funcionalidades
+- Consulta por time
+- Mostra pontos, vitórias, empates e derrotas
+- Destaque para o Sport caso seja o time selecionado
+
+## Tecnologias
 - Python
 - Pandas
 - Streamlit
 
-## ▶️ Como rodar
-1. Instale as dependências:
-=======
-# brasileirao_app
->>>>>>> 1d48c17981ef85b38dde6ceb29dd7a9ae08b1625
+## Como usar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/viniciussna-01/brasileirao_app.git
+
+2. Instale as dependências:
+
+pip install -r requirements.txt
+
+3.Execute o app:
+
+streamlit run desafio_app.py
